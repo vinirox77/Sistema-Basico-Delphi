@@ -1,0 +1,25 @@
+inherited frmCadastroEstado: TfrmCadastroEstado
+  Caption = 'Cadastro de Estados'
+  PixelsPerInch = 96
+  TextHeight = 13
+  inherited fdQryCadastro: TFDQuery
+    UpdateOptions.AssignedValues = [uvFetchGeneratorsPoint, uvGeneratorName]
+    UpdateOptions.FetchGeneratorsPoint = gpImmediate
+    UpdateOptions.GeneratorName = 'GEN_ESTADO_ID'
+    UpdateOptions.AutoIncFields = 'ID_ESTADO'
+    UpdateObject = nil
+    SQL.Strings = (
+      'SELECT * FROM ESTADO')
+    object fdQryCadastroID_ESTADO: TFDAutoIncField
+      FieldName = 'ID_ESTADO'
+      Origin = 'ID_ESTADO'
+      ProviderFlags = [pfInUpdate, pfInWhere, pfInKey]
+      IdentityInsert = True
+    end
+    object fdQryCadastroNOME: TWideStringField
+      FieldName = 'NOME'
+      Origin = 'NOME'
+      Size = 60
+    end
+  end
+end

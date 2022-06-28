@@ -1,0 +1,49 @@
+unit uFormConfigBanco;
+
+interface
+
+uses
+    Winapi.Windows
+  , Winapi.Messages
+  , System.SysUtils
+  , System.Variants
+  , System.Classes
+  , Vcl.Graphics
+  , Vcl.Controls
+  , Vcl.Forms
+  , Vcl.Dialogs
+  , Vcl.ExtCtrls
+  , Vcl.StdCtrls
+  , Vcl.Imaging.pngimage
+  , Model.Biblioteca.Functions
+  ;
+
+type
+  TfrmConfigBanco = class(TForm)
+    imgBd: TImage;
+    edtLocal: TEdit;
+    lblLocalBanco: TLabel;
+    btnConfigurar: TButton;
+    opnPastas: TOpenDialog;
+  private
+    { Private declarations }
+    procedure Configurar;
+  public
+    { Public declarations }
+  end;
+
+var
+  frmConfigBanco: TfrmConfigBanco;
+
+implementation
+
+{$R *.dfm}
+
+{ TfrmConfigBanco }
+
+procedure TfrmConfigBanco.Configurar;
+begin
+
+end;
+
+end.

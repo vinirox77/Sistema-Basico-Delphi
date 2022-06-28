@@ -1,0 +1,8 @@
+unit Model.Biblioteca.Functions;
+
+interface
+  //procedure SetValorIni(pLocal, pSessao, pSubSessao : String; pValor : String);
+
+implementation
+
+end.

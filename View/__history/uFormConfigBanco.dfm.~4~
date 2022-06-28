@@ -1,0 +1,23 @@
+object frmConfigBanco: TfrmConfigBanco
+  Left = 0
+  Top = 0
+  Caption = 'Configura'#231#227'o do Banco de Dados'
+  ClientHeight = 301
+  ClientWidth = 455
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  OldCreateOrder = False
+  Position = poDesktopCenter
+  PixelsPerInch = 96
+  TextHeight = 13
+  object Image1: TImage
+    Left = 56
+    Top = 64
+    Width = 105
+    Height = 105
+  end
+end

@@ -1,0 +1,23 @@
+unit Model.Biblioteca.Functions;
+
+interface
+
+uses
+    IniFiles
+  , System.SysUtils
+  , Vcl.Forms
+  ;
+
+  procedure SetValorIni(pLocal, pSessao, pSubSessao : String; pValor : String);
+
+implementation
+
+
+procedure SetValorIni(pLocal, pSessao, pSubSessao : String; pValor : String);
+var
+  vArquivo : TIniFile;
+begin
+  vArquivo := TIniFile.Create(ExtractFilePath(Application.ExeName));
+end;
+
+end.

@@ -1,0 +1,82 @@
+inherited frmCadastroCliente: TfrmCadastroCliente
+  Caption = 'Cadastro de Clientes'
+  PixelsPerInch = 96
+  TextHeight = 13
+  inherited fdQryCadastro: TFDQuery
+    SQL.Strings = (
+      'SELECT * FROM CLIENTE')
+    object fdQryCadastroID_CLIENTE: TIntegerField
+      FieldName = 'ID_CLIENTE'
+      Origin = 'ID_CLIENTE'
+      ProviderFlags = [pfInUpdate, pfInWhere, pfInKey]
+      Required = True
+    end
+    object fdQryCadastroRAZAO_SOCIAL: TWideStringField
+      FieldName = 'RAZAO_SOCIAL'
+      Origin = 'RAZAO_SOCIAL'
+      Size = 80
+    end
+    object fdQryCadastroFANTASIA: TWideStringField
+      FieldName = 'FANTASIA'
+      Origin = 'FANTASIA'
+      Size = 80
+    end
+    object fdQryCadastroCPF_CPNJ: TWideStringField
+      FieldName = 'CPF_CPNJ'
+      Origin = 'CPF_CPNJ'
+    end
+    object fdQryCadastroTIPO_FJ: TWideStringField
+      FieldName = 'TIPO_FJ'
+      Origin = 'TIPO_FJ'
+      Size = 1
+    end
+    object fdQryCadastroNOME: TWideStringField
+      FieldName = 'NOME'
+      Origin = 'NOME'
+      Size = 80
+    end
+    object fdQryCadastroEMAIL: TWideStringField
+      FieldName = 'EMAIL'
+      Origin = 'EMAIL'
+      Size = 255
+    end
+    object fdQryCadastroSITE: TWideStringField
+      FieldName = 'SITE'
+      Origin = 'SITE'
+      Size = 255
+    end
+    object fdQryCadastroENDERECO: TWideStringField
+      FieldName = 'ENDERECO'
+      Origin = 'ENDERECO'
+      Size = 255
+    end
+    object fdQryCadastroCOMPLEMENTO: TWideStringField
+      FieldName = 'COMPLEMENTO'
+      Origin = 'COMPLEMENTO'
+      Size = 40
+    end
+    object fdQryCadastroNUMERO: TWideStringField
+      FieldName = 'NUMERO'
+      Origin = 'NUMERO'
+    end
+    object fdQryCadastroBAIRRO: TWideStringField
+      FieldName = 'BAIRRO'
+      Origin = 'BAIRRO'
+      Size = 50
+    end
+    object fdQryCadastroIE: TWideStringField
+      FieldName = 'IE'
+      Origin = 'IE'
+      Size = 30
+    end
+    object fdQryCadastroIM: TWideStringField
+      FieldName = 'IM'
+      Origin = 'IM'
+      Size = 30
+    end
+    object fdQryCadastroDT_EXCLUIDO: TDateField
+      FieldName = 'DT_EXCLUIDO'
+      Origin = 'DT_EXCLUIDO'
+    end
+  end
+end

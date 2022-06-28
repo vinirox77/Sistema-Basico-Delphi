@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/11/20 02:59:18.000.364,=C:\Users\Vinicius\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/11/20 03:13:33.000.508,=C:\Users\Vinicius\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/06/10 00:05:28.000.797,=C:\Users\Vinicius\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/10/22 12:23:02.000.877,=C:\Users\Vinicius\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/10/22 12:23:37.000.580,=C:\Users\Vinicius\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/12/28 10:19:31.000.298,=C:\Users\Vinicius\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/12/28 10:47:46.000.758,E:\Vinícius\Dev\3 - DELPHI\Udemy\Curso Josué\View\uFormMain.pas=C:\Users\Vinicius\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/12/28 10:47:46.000.758,E:\Vinícius\Dev\3 - DELPHI\Udemy\Curso Josué\View\uFormMain.dfm=C:\Users\Vinicius\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2021/12/28 10:48:24.000.685,E:\Vinícius\Dev\3 - DELPHI\Udemy\Curso Josué\prjCursoBasico.dproj=C:\Users\Vinicius\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2021/12/29 09:26:17.000.739,=E:\Vinícius\Dev\3 - DELPHI\Udemy\Curso Josué\Unit1.pas</Transaction>
+    <Transaction>2021/12/29 09:30:40.000.377,E:\Vinícius\Dev\3 - DELPHI\Udemy\Curso Josué\Model\DB\DmDados.dfm=E:\Vinícius\Dev\3 - DELPHI\Udemy\Curso Josué\Unit1.dfm</Transaction>
+    <Transaction>2021/12/29 09:30:40.000.377,E:\Vinícius\Dev\3 - DELPHI\Udemy\Curso Josué\Model\DB\DmDados.pas=E:\Vinícius\Dev\3 - DELPHI\Udemy\Curso Josué\Unit1.pas</Transaction>
+    <Transaction>2021/12/29 09:50:18.000.508,=E:\Vinícius\Dev\3 - DELPHI\Udemy\Curso Josué\Unit1.pas</Transaction>
+    <Transaction>2021/12/29 09:50:47.000.325,E:\Vinícius\Dev\3 - DELPHI\Udemy\Curso Josué\Model\Classes\Model.Biblioteca.Functions.pas=E:\Vinícius\Dev\3 - DELPHI\Udemy\Curso Josué\Unit1.pas</Transaction>
+    <Transaction>2022/01/02 17:31:49.000.459,=E:\Vinícius\Dev\3 - DELPHI\Udemy\Curso Josué\Unit1.pas</Transaction>
+    <Transaction>2022/01/02 17:33:06.000.901,E:\Vinícius\Dev\3 - DELPHI\Udemy\Curso Josué\Unit1.pas=E:\Vinícius\Dev\3 - DELPHI\Udemy\Curso Josué\View\uFormConfigBanco.pas</Transaction>
+    <Transaction>2022/01/02 17:33:06.000.901,E:\Vinícius\Dev\3 - DELPHI\Udemy\Curso Josué\Unit1.dfm=E:\Vinícius\Dev\3 - DELPHI\Udemy\Curso Josué\View\uFormConfigBanco.dfm</Transaction>
+    <Transaction>2022/01/02 23:08:20.000.303,E:\Vinícius\Dev\3 - DELPHI\Udemy\Curso Josué\View\uFormMain.dfm=E:\Vinícius\Dev\3 - DELPHI\Udemy\Curso Josué\View\View.Main.dfm</Transaction>
+    <Transaction>2022/01/02 23:08:20.000.303,E:\Vinícius\Dev\3 - DELPHI\Udemy\Curso Josué\View\uFormMain.pas=E:\Vinícius\Dev\3 - DELPHI\Udemy\Curso Josué\View\View.Main.pas</Transaction>
+    <Transaction>2022/01/02 23:08:25.000.824,E:\Vinícius\Dev\3 - DELPHI\Udemy\Curso Josué\View\uFormConfigBanco.pas=E:\Vinícius\Dev\3 - DELPHI\Udemy\Curso Josué\View\View.ConfigBanco.pas</Transaction>
+    <Transaction>2022/01/02 23:08:25.000.824,E:\Vinícius\Dev\3 - DELPHI\Udemy\Curso Josué\View\uFormConfigBanco.dfm=E:\Vinícius\Dev\3 - DELPHI\Udemy\Curso Josué\View\View.ConfigBanco.dfm</Transaction>
+    <Transaction>2022/01/03 08:46:48.000.267,=E:\Vinícius\Dev\3 - DELPHI\Udemy\Curso Josué\Unit1.pas</Transaction>
+    <Transaction>2022/01/03 08:48:27.000.620,E:\Vinícius\Dev\3 - DELPHI\Udemy\Curso Josué\View\View.Cadastro.Pai.dfm=E:\Vinícius\Dev\3 - DELPHI\Udemy\Curso Josué\Unit1.dfm</Transaction>
+    <Transaction>2022/01/03 08:48:27.000.620,E:\Vinícius\Dev\3 - DELPHI\Udemy\Curso Josué\View\View.Cadastro.Pai.pas=E:\Vinícius\Dev\3 - DELPHI\Udemy\Curso Josué\Unit1.pas</Transaction>
+    <Transaction>2022/01/04 09:26:58.000.496,=E:\Vinícius\Dev\3 - DELPHI\Udemy\Curso Josué\Unit1.pas</Transaction>
+    <Transaction>2022/01/04 09:28:23.000.956,E:\Vinícius\Dev\3 - DELPHI\Udemy\Curso Josué\Unit1.pas=E:\Vinícius\Dev\3 - DELPHI\Udemy\Curso Josué\View\View.Cadastro.Cliente.pas</Transaction>
+    <Transaction>2022/01/04 09:28:23.000.956,E:\Vinícius\Dev\3 - DELPHI\Udemy\Curso Josué\Unit1.dfm=E:\Vinícius\Dev\3 - DELPHI\Udemy\Curso Josué\View\View.Cadastro.Cliente.dfm</Transaction>
+    <Transaction>2022/06/28 08:56:32.857,=E:\Vinícius\Dev\3 - DELPHI\Udemy\Curso Josué\Unit1.pas</Transaction>
+    <Transaction>2022/06/28 08:57:31.637,E:\Vinícius\Dev\3 - DELPHI\Udemy\Curso Josué\View\View.Cadastro.Estado.pas=E:\Vinícius\Dev\3 - DELPHI\Udemy\Curso Josué\Unit1.pas</Transaction>
+    <Transaction>2022/06/28 08:57:31.637,E:\Vinícius\Dev\3 - DELPHI\Udemy\Curso Josué\View\View.Cadastro.Estado.dfm=E:\Vinícius\Dev\3 - DELPHI\Udemy\Curso Josué\Unit1.dfm</Transaction>
+    <Transaction>2022/06/28 09:23:08.947,=E:\Vinícius\Dev\3 - DELPHI\Udemy\Curso Josué\Unit1.pas</Transaction>
+    <Transaction>2022/06/28 09:25:22.521,E:\Vinícius\Dev\3 - DELPHI\Udemy\Curso Josué\View\View.Cadastro.Cidade.pas=E:\Vinícius\Dev\3 - DELPHI\Udemy\Curso Josué\Unit1.pas</Transaction>
+    <Transaction>2022/06/28 09:25:22.521,E:\Vinícius\Dev\3 - DELPHI\Udemy\Curso Josué\View\View.Cadastro.Cidade.dfm=E:\Vinícius\Dev\3 - DELPHI\Udemy\Curso Josué\Unit1.dfm</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5"/>
+	</ActiveMobileDevice>
+</BorlandProject>

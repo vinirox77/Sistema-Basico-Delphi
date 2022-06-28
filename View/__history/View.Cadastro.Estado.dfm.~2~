@@ -1,0 +1,10 @@
+inherited frmCadastroEstado: TfrmCadastroEstado
+  Caption = 'Cadastro de Estados'
+  PixelsPerInch = 96
+  TextHeight = 13
+  inherited fdQryCadastro: TFDQuery
+    UpdateObject = nil
+    SQL.Strings = (
+      'SELECT * FROM ESTADO')
+  end
+end

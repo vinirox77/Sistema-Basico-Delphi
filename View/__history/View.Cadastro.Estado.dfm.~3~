@@ -1,0 +1,14 @@
+inherited frmCadastroEstado: TfrmCadastroEstado
+  Caption = 'Cadastro de Estados'
+  PixelsPerInch = 96
+  TextHeight = 13
+  inherited fdQryCadastro: TFDQuery
+    UpdateOptions.AssignedValues = [uvFetchGeneratorsPoint, uvGeneratorName]
+    UpdateOptions.FetchGeneratorsPoint = gpImmediate
+    UpdateOptions.GeneratorName = 'GEN_ESTADO_ID'
+    UpdateOptions.AutoIncFields = 'ID_ESTADO'
+    UpdateObject = nil
+    SQL.Strings = (
+      'SELECT * FROM ESTADO')
+  end
+end
